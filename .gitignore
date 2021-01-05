@@ -31,3 +31,22 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Geral ###
+/target/
+/.classpath
+/.springBeans
+/.project
+/.settings/
+/.gradle/
+/build/
+
+lixo.txt
+
+
+
+
+
+
+
+
